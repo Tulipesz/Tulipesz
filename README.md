@@ -40,21 +40,76 @@ root@ubuntu:~# whoami
     `*-*   `*-*  `*-*'          """"""""""""""""""""""""""""""""""""""""""
 ```
 
-# Working with:
-![Badge ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Badge Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
-![Badge AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Badge Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Badge Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![Badge C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Badge Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![Badge Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<p align="left">
+  <h1>Working with:</h1>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.icons8.com/color/144/000000/linux--v1.png" alt="linux" width="40" height="40"/>
+  </a> 
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://i.imgur.com/J2Giejm.png" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://i.imgur.com/arGaIJ7.png" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://heroku.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
+  </a>
+  <a href="https://www.ansible.com/" target="_blank"> 
+    <img src="https://i.imgur.com/ehQdyP6.png" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.jenkins.io" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
+  </a>
+  <a href="https://kubernetes.io" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.icons8.com/color/480/000000/mongodb.png" alt="mongodb" width="40" height="40"/>
+  </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://img.icons8.com/color/480/000000/microsoft-sql-server.png" alt="mssql" width="40" height="40"/> 
+  </a>
+  <a href="https://www.nginx.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+  </a>
+  
+  
+  
+  
+  
+  <h1>Learning:</h1>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a> 
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://jestjs.io" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+  </a> 
+  <a href="https://redis.io" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
+  </a>
+  <a href="https://graphql.org" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+  </a> 
+  <a href="https://reactnative.dev/" target="_blank"> 
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+  </a> 
+  <a href="https://dart.dev" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.figma.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a> 
+  <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
+  </a> 
+</p>
 
-# Learning:
-![Badge Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Badge Typescrip](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Badge Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Badge Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 <!---
 - 👀 I’m interested in ...
