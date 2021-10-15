@@ -8,7 +8,7 @@
 </h1>
 
 
-<img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/783ff285743343.5d84ba592b6f6.gif" alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" width="328" />
+<img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/783ff285743343.5d84ba592b6f6.gif" alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" width="310" height="490" />
 
 
 ```console
@@ -24,7 +24,6 @@ root@ubuntu:~# whoami
 ```
 
 ```
-
      \`*-.                                           .---.
       )  _`-.                             _ _        | N |   
      .  : `. .                     .---. |   |       | E |.--.   
@@ -38,7 +37,7 @@ root@ubuntu:~# whoami
        :  '  |    ;       ;-.      | O | | H | | U | | E |       \ I \   
        ; '   : :`-:     _.`* ;     | D | | M | | X | | R |        \ P \   
      .*' /  .*' ; .*`- +'  `*'     | E | | S | |   | |   |         \ T \
-    `*-*   `*-*  `*-*'          """""""""""""""""""""""""""""""""""""""""""
+    `*-*   `*-*  `*-*'          """"""""""""""""""""""""""""""""""""""""""
 ```
 
 # Working with:
