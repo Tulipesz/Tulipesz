@@ -8,7 +8,7 @@
 </h1>
 
 
-<img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/783ff285743343.5d84ba592b6f6.gif" alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" width="300" height="490" />
+<img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/783ff285743343.5d84ba592b6f6.gif" alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" width="290" height="490" />
 
 
 ```console
