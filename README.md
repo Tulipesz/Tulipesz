@@ -14,12 +14,12 @@
 ```console
 root@ubuntu:~# whoami
 
-💻 Working as Sysadmin but wanting move to Developer
+💻 Working as Sysadmin
 💖 Interested in modern development, best practices and software architecture
-⭐ Studying to become a Software Engineer
+⭐ Studying to become a Security Engineer
 🚩 CTF player and love cybersecurity
-🎵 Love Russian/French musics
-📚 Love books
+🎵 Love French Musics
+📚 Love Books
 🎧 Love LoFi
 ```
 
@@ -74,13 +74,6 @@ root@ubuntu:~# whoami
   </a>
   <a href="https://www.nginx.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-  
-  
-  
-  
-  
-  <h1>Learning:</h1>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a> 
@@ -89,24 +82,19 @@ root@ubuntu:~# whoami
   </a> 
   <a href="https://jestjs.io" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-  </a> 
+  </a>   
+</a>
+  
+  
+  
+  
+  
+  <h1>Learning:</h1>
   <a href="https://redis.io" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
   </a>
   <a href="https://graphql.org" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a> 
-  <a href="https://dart.dev" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a> 
 </p>
 
