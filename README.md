@@ -17,8 +17,10 @@ root@ubuntu:~# whoami
 💻 Working as Developer
 💖 Interested in modern development, best practices and software architecture
 🚩 CTF player and love cybersecurity
+⭐ Studying to become a Security Engineer
 📚 Love Books
 🎧 Love LoFi
+✍️ Study Session
 ```
 
 ```
