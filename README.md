@@ -14,11 +14,9 @@
 ```console
 root@ubuntu:~# whoami
 
-💻 Working as Sysadmin
+💻 Working as Developer
 💖 Interested in modern development, best practices and software architecture
-⭐ Studying to become a Security Engineer
 🚩 CTF player and love cybersecurity
-🎵 Love French Musics
 📚 Love Books
 🎧 Love LoFi
 ```
